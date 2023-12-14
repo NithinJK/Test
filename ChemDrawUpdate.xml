@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>ChemOffice Update</title>
+        <description>The most recent update to ChemOffice</description>
+        <language>en</language>
+        <item>
+            <title>Build 22.8.0.4135</title>
+            <pubDate>Thu, 14 Dec 2023 11:18:45 +0000</pubDate>
+            <enclosure url="https://static.chemistry.revvitycloud.com/chemdraw/updates/cd22.8.0.dmg"
+                       sparkle:edSignature="fbLuV44oamb7cs67U5WHKjVAnMFQ5sLwqAI7VaK5cfGZz7qG1BjLlAITfNo1HPjfvFYgvhM8mJHm89kg9fvlDQ==" length="265257989"
+                       sparkle:version="22.8.0.4135"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
